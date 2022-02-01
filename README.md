@@ -7,9 +7,9 @@ This was part of the lab and homework I learned from CSS496.
 
 | Week    | Topics                                        | Coding Lab                           |
 | ------- | --------------------------------------------- | ------------------------------------ |
-| Week 1  | Introduction and Overview of Digital Image Processing    | No code                  |
-| Week 2  | Digital Image Fundamentals                    |  [Code](02-Image-Fundamentals)      |
-| Week 3  |                               |   |
+| Week 1  | Introduction and Overview of Digital Image Processing    | No code                   |
+| Week 2  | Digital Image Fundamentals                    |  [Code](02-Image-Fundamentals)       |
+| Week 3  | Image Enhancement in Spatial Domain (1)       |[Code](03-GrayLevel_Transformation)   |
 | Week 4  |                                 |  |
 | Week 5  |                            |                         |  
 | Week 6  |                                 |                           |

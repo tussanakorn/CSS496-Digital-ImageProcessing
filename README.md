@@ -11,7 +11,7 @@ This was part of the lab and homework I learned from CSS496.
 | Week 2  | Digital Image Fundamentals                    |  [Code](02-Image-Fundamentals)       |
 | Week 3  | Image Enhancement in Spatial Domain (1)       |[Code](03-GrayLevel_Transformation)   |
 | Week 4  | Image Enhancement in Spatial Domain (2)       |[Code](04-Image-Enhancement)          |
-| Week 5  |                            |                         |  
+| Week 5  | Image Enhancement in the frequency domain     |[Code](05-2D_Fourier_transforms)      |  
 | Week 6  |                                 |                           |
 | Week 7  |                                    |    |
 | Week 8  |                   |                            |

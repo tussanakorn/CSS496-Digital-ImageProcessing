@@ -8,8 +8,8 @@ This was part of the lab and homework I learned from CSS496.
 |  Topic                           | Coding Lab                           |
 | --------------------------------------------- | ------------------------------------ |
 | Introduction and Overview of Digital Image Processing    | No code                   |
-| Digital Image Fundamentals                    |  [Code](02-Image-Fundamentals)       |
-| Image Enhancement in Spatial Domain (1)       |[Code](03-GrayLevel_Transformation)   |
+| Digital Image Fundamentals                    |[Code](02-Image-Fundamentals)         |
+| Image Enhancement in Spatial Domain (1)       |[Code](03-GrayLevel-Transformation)   |
 | Image Enhancement in Spatial Domain (2)       |[Code](03-Image-Enhancement)          |
 | Image Enhancement in the frequency domain     |[Code](04-2D-Fourier-transforms)      |  
 | Image Restoration                             |[Code](05-Restoration)                |

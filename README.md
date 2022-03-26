@@ -14,7 +14,7 @@ This was part of the lab and homework I learned from CSS496.
 | Image Enhancement in the frequency domain     |[Code](04-2D-Fourier-transforms)      |  
 | Image Restoration                             |[Code](05-Restoration)                |
 | Image Segmentation                            |[Code](06-Segmentation)               |
-| Morphological transformation                  |[Code](07-Morphological)              |
+| Morphological transformation                  |[Human Detection](07-Morphological)   |
 |                                               |                                      |
 
 

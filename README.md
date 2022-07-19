@@ -1,4 +1,4 @@
-# CSS496-Digital Image Processing (2/64)
+# CSS496-Digital Image Processing (2/64) KMUTT
 This was part of the lab and homework I learned from CSS496.
 
 ### Instructor : Dr. Thittaporn Ganokratana
